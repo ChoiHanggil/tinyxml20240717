@@ -1,0 +1,23 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<monsters>
+    <monster name="Jelly">
+        <status level="1" hp="1" mp="1"/>
+        <items>
+            <item name="money" price="1"/>
+        </items>
+    </monster>
+    <monster name="WereWlf">
+        <status level="5" hp="5" mp="5"/>
+        <items>
+            <item name="claw" price="10"/>
+            <item name="leather" price="15"/>
+        </items>
+    </monster>
+    <monster name="Demon">
+        <status level="10" hp="10" mp="10"/>
+        <items>
+            <item name="taill" price="10"/>
+            <item name="money" price="100"/>
+        </items>
+    </monster>
+</monsters>
